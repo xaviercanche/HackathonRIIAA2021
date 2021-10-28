@@ -13,7 +13,7 @@ La desaparición forzada de personas es una violación grave a los derechos huma
 - Ramón Aparicio
 
 # Solution for Challenge 1.
-**Pipeline:**
+**Pipeline:**   
 <img src="images/reto1.png" width="800">
 
 **Face recognition:**
@@ -28,11 +28,11 @@ Segmentation with image processing.
 Feature extract with Deep Neural Network VGG16 and clustering with K-means and agglomerative hierarchical clustering.  
 <img src="images/cluster.png" width="800">
 
-**Results:**
+**Results:**   
 <img src="images/results.png" width="800">
 
 # Solution for Challenge 2.
-**Pipeline:**
+**Pipeline:**   
 <img src="images/reto2.png" width="800">
 
 **Text Segmentation:**

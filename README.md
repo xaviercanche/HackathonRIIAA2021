@@ -14,34 +14,34 @@ La desaparición forzada de personas es una violación grave a los derechos huma
 
 # Solution for Challenge 1.
 **Pipeline:**
-<img src="images/reto1.png" width="500">
+<img src="images/reto1.png" width="800">
 
 **Face recognition:**
-Use lib face_recognition with Convolutional Neural Netwok.
-<img src="images/face.png" width="500">
+Use lib face_recognition with Convolutional Neural Netwok.  
+<img src="images/face.png" width="800">
 
 **Segmentation:**
-Segmentation with image processing.
-<img src="images/seg.png" width="500">
+Segmentation with image processing.  
+<img src="images/seg.png" width="800">
 
 **Clustering:**
-Feature extract with Deep Neural Network VGG16 and clustering with K-means and agglomerative hierarchical clustering.
-<img src="images/cluster.png" width="500">
+Feature extract with Deep Neural Network VGG16 and clustering with K-means and agglomerative hierarchical clustering.  
+<img src="images/cluster.png" width="800">
 
 **Results:**
-<img src="images/results.png" width="500">
+<img src="images/results.png" width="800">
 
 # Solution for Challenge 2.
 **Pipeline:**
-<img src="images/reto2.png" width="500">
+<img src="images/reto2.png" width="800">
 
 **Text Segmentation:**
-We use same segmentation of challenge 1.
-<img src="images/textseg1.png" width="500">
+We use same segmentation of challenge 1. 
+<img src="images/textseg1.png" width="800">
 
 **Text Recognition:**
-We use pytesseract for text recognition on text segmentation.
-<img src="images/textseg2.png" width="500">
+We use pytesseract for text recognition on text segmentation.  
+<img src="images/textseg2.png" width="800">
 
 **Reference:**
 - https://github.com/Hackaton-JusticIA-2021/pista-latente-ML-sol

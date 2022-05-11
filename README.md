@@ -47,7 +47,7 @@ We use pytesseract for text recognition on text segmentation.
 **Information Detect (Words Classification):**   
 We use bags of words (NLP) to identify the context (organizations, prosecuted, civilservants, places) of the words contained in the segmented text of each image.   
 
-<img src="images/classification_Words.png" width="800">  
+<img src="images/classification_Words.png" width="900">  
 
 This helps us identify the information contained in each stock photo.  
 

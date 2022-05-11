@@ -45,7 +45,7 @@ We use pytesseract for text recognition on text segmentation.
 <img src="images/textseg2.png" width="800">
 
 **Information Detect (Words Classification):**   
-We use bags of words to identify the context (organizations, prosecuted, civilservants, places) of the words contained in the segmented text of each image. 
+We use bags of words to identify the context (organizations, prosecuted, civilservants, places) of the words contained in the segmented text of each image.   
 <img src="images/classification_Words.png" width="800">
 
 **Reference:**   
